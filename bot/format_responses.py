@@ -50,3 +50,8 @@ hydra_string = '''
 `Hail Hydra!`
 {}
 '''
+
+neko_string = '''
+**Meow**
+{}
+'''
